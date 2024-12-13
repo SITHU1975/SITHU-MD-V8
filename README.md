@@ -87,40 +87,7 @@
 # 
 
 <br>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow SUHAS-BRO Whatsapp Channel🧑‍💻](https://www.whatsapp.com/channel/0029VagKNUe96H4IdMbr9f2o)
-
-* [🧑‍💻 Join SUHAS-BRO Telegram Group 🧑‍💻](https://t.me/suhasbro)
-
-* [✅ Join Public Group ⚡](https://www.whatsapp.com/channel/0029VagKNUe96H4IdMbr9f2o)
-
-  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-- *SUHAS_MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use SUHAS-MD V2 at your own risk by keeping this warning in mind.*
-  
-  #### ```SUHAS BRO PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/suhasbro/count.svg)
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-## Workflow Deploy Code 👇
-
-
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
 
 jobs:
   build:
