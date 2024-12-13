@@ -1,39 +1,22 @@
- # 📌𝚂𝚄𝙷𝙰𝚂 𝙼𝙳 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝚅𝚎𝚛𝚜𝚒𝚘𝚗-8.0.0 ( 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 ) 🔖
-<p align="center">
-⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙
-<p align="center">
-💡✨𝙎𝙐𝙃𝘼𝙎-𝙈𝘿 𝙒𝙚𝙗 𝙎𝙞𝙩𝙚.✨💡
-<p align="center">
-https://suhas-web-new.vercel.app/
+ # 📌SITHU 𝙼𝙳 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝚅𝚎𝚛𝚜𝚒𝚘𝚗-8.0.0 ( 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 ) 🔖
 <p align="center">
 ⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A93226&center=true&width=900&height=100&lines=🧚‍♂️SUHAS-MD%20V8🧚‍♂️;%20🤖Multi-Device%20WhatsApp%20Bot.🤖;%20🥰Developed%20By%20Suhas%20Pathsindu.🥰)
-<p align="center">
-🧚‍♂️SUHAS-MD Support Group💕
-<p align="center">
-https://chat.whatsapp.com/BFDXnaUCQKqInxGq8LxUvo
-<p align="center">
-💚බොට් හදාගත්ත අය මේ ගෘෘප් එකට ජොයින් වෙන්න.🙃❤
-<p align="center">
-💚 You Are Deploy SUHAS-MD Bot Join Our WhatsApp Group.🙃❤
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙
+
+
+<img src=">
 
 <div align="center">
  
-   <a><img src='https://i.ibb.co/02FQtBf/20241118-143715.jpg'/></a><a>
-<p align="center">
+   <a><img '/></a><a>
+<p align="center
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ SUHAS_+MD-+V8★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SUHAS+BRO;RELEASED+DATE+15%2F11%2F2024." alt="Typing SVG" /></a>
  </p>
 
 
- ## SUHAS-MD V8 Deployment Methods
-
- 
-## MY YT CHANNEL
-
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@suhasbro) 
+ ## SITHU-MD V8 Deployment Methods 
 
 </details>
 
