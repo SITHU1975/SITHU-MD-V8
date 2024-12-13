@@ -5,14 +5,14 @@
 ⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙⸙
 
 
-<img src=">
+<img src ❤=">
 
 <div align="center">
  
    <a><img  '/></a><a>
 <p align="center
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ SUHAS_+MD-+V8★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SITHU+BRO;RELEASED+DATE+15%2F11%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ SITHU_+MD-+V8★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+SITHU;RELEASED+DATE+15%2F11%2F2024." alt="Typing SVG" /></a>
  </p>
 
 
